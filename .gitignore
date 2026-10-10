@@ -1,0 +1,9 @@
+# build artifacts
+napi_host.exe
+*.exe
+*.o
+
+# runtime
+__pycache__/
+*.pyc
+.env
